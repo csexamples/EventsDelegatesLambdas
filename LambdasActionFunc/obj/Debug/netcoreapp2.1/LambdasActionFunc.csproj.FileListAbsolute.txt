@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/CSEventsDelegatesLambdas/LambdasActionFunc/bin/Debug/netcoreapp2.1/LambdasActionFunc.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/CSEventsDelegatesLambdas/LambdasActionFunc/bin/Debug/netcoreapp2.1/LambdasActionFunc.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/CSEventsDelegatesLambdas/LambdasActionFunc/bin/Debug/netcoreapp2.1/LambdasActionFunc.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/CSEventsDelegatesLambdas/LambdasActionFunc/bin/Debug/netcoreapp2.1/LambdasActionFunc.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CSEventsDelegatesLambdas/LambdasActionFunc/bin/Debug/netcoreapp2.1/LambdasActionFunc.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CSEventsDelegatesLambdas/LambdasActionFunc/obj/Debug/netcoreapp2.1/LambdasActionFunc.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CSEventsDelegatesLambdas/LambdasActionFunc/obj/Debug/netcoreapp2.1/LambdasActionFunc.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CSEventsDelegatesLambdas/LambdasActionFunc/obj/Debug/netcoreapp2.1/LambdasActionFunc.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CSEventsDelegatesLambdas/LambdasActionFunc/obj/Debug/netcoreapp2.1/LambdasActionFunc.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CSEventsDelegatesLambdas/LambdasActionFunc/obj/Debug/netcoreapp2.1/LambdasActionFunc.pdb

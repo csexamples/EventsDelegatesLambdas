@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/CSEventsDelegatesLambdas/CSEventsDelegatesLambdas/bin/Debug/netcoreapp2.1/CustomDelegates.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/CSEventsDelegatesLambdas/CSEventsDelegatesLambdas/bin/Debug/netcoreapp2.1/CustomDelegates.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/CSEventsDelegatesLambdas/CSEventsDelegatesLambdas/bin/Debug/netcoreapp2.1/CustomDelegates.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/CSEventsDelegatesLambdas/CSEventsDelegatesLambdas/bin/Debug/netcoreapp2.1/CustomDelegates.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CSEventsDelegatesLambdas/CSEventsDelegatesLambdas/bin/Debug/netcoreapp2.1/CustomDelegates.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CSEventsDelegatesLambdas/CSEventsDelegatesLambdas/obj/Debug/netcoreapp2.1/CustomDelegates.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CSEventsDelegatesLambdas/CSEventsDelegatesLambdas/obj/Debug/netcoreapp2.1/CustomDelegates.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CSEventsDelegatesLambdas/CSEventsDelegatesLambdas/obj/Debug/netcoreapp2.1/CustomDelegates.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CSEventsDelegatesLambdas/CSEventsDelegatesLambdas/obj/Debug/netcoreapp2.1/CustomDelegates.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CSEventsDelegatesLambdas/CSEventsDelegatesLambdas/obj/Debug/netcoreapp2.1/CustomDelegates.pdb

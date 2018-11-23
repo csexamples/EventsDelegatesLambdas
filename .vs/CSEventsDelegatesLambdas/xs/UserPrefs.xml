@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{AF13BE6C-75CB-476A-A11C-4C3F32ECE197}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LambdasActionFunc/Program.cs">
+    <Files>
+      <File FileName="LambdasActionFunc/Program.cs" Line="12" Column="13" />
+      <File FileName="LambdasActionFunc/Worker.cs" Line="6" Column="6" />
+      <File FileName="LambdasActionFunc/WorkPerformedEventArgs.cs" Line="10" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DelegatesAndEvents PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LambdasActionFunc PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CustomDelegates PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
